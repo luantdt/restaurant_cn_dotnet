@@ -1,0 +1,13 @@
+﻿@model PJ_.Net_Restaurant.Models.Contact
+
+<address class="body-4">
+    @Model.address
+</address>
+
+<a href="mailto:@Model.email" class="body-4 contact-link">@Model.email</a>
+
+<a href="tel:@Model.phonenum" class="body-4 contact-link">Booking Request : @Model.phonenum</a>
+
+<p class="body-4">
+    Daily : @Model.timeopen
+</p>

@@ -1,0 +1,504 @@
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CopyComplete
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\TH\Lab2\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CopyComplete
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Utilities.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CopyComplete
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.dll
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.xml
+C:\Users\WIN 10\OneDrive\Desktop\TL hoc\Năm 4\HK II\Công nghệ .NET\CK\PJ Final\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Components.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CopyComplete
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+D:\IT\webnangcao\github\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Components.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CopyComplete
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+D:\IT\dotnet\ck\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.AssemblyReference.cache
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.csproj.CoreCompileInputs.cache
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_Restaurant.pdb
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll.config
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\PJ_.Net_Restaurant.pdb
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.exe.config
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csc.rsp
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.exe.config
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\csi.rsp
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.AppContext.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Collections.Immutable.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Console.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Globalization.Calendars.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Http.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Net.Sockets.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.ValueTuple.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.exe.config
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\vbc.rsp
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\roslyn\VBCSCompiler.exe.config
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Components.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Web.Infrastructure.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\WebGrease.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.Data.Tools.Utilities.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\EntityFramework.SqlServer.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Helpers.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Mvc.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Optimization.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.Razor.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Deployment.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\System.Web.WebPages.Razor.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Newtonsoft.Json.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Antlr3.Runtime.pdb
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document\TDTU\Network Manager\.NET\trunghau\PJ_.Net_Restaurant\PJ_.Net_Restaurant\obj\Debug\PJ_.Net_.28436155.Up2Date

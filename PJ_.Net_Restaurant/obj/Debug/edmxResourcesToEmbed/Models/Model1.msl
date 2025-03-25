@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RESTAURANTModelStoreContainer" CdmEntityContainer="RestaurantEntities">
+    <EntitySetMapping Name="Background">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Background">
+        <MappingFragment StoreEntitySet="Background">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="namepage" ColumnName="namepage" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Banner">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Banner">
+        <MappingFragment StoreEntitySet="Banner">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="headtitle" ColumnName="headtitle" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bill">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Bill">
+        <MappingFragment StoreEntitySet="Bill">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phonenum" ColumnName="phonenum" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="foodname" ColumnName="foodname" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contact">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="timeopen" ColumnName="timeopen" />
+          <ScalarProperty Name="phonenum" ColumnName="phonenum" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="lunchdate" ColumnName="lunchdate" />
+          <ScalarProperty Name="lunchtime" ColumnName="lunchtime" />
+          <ScalarProperty Name="dinnerdate" ColumnName="dinnerdate" />
+          <ScalarProperty Name="dinnertime" ColumnName="dinnertime" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Food">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Food">
+        <MappingFragment StoreEntitySet="Food">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="discountprice" ColumnName="discountprice" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+          <ScalarProperty Name="sales" ColumnName="sales" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="footstyle" ColumnName="footstyle" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FoodStyle">
+      <EntityTypeMapping TypeName="RESTAURANTModel.FoodStyle">
+        <MappingFragment StoreEntitySet="FoodStyle">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logo">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Logo">
+        <MappingFragment StoreEntitySet="Logo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Navbar">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Navbar">
+        <MappingFragment StoreEntitySet="Navbar">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Offer">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Offer">
+        <MappingFragment StoreEntitySet="Offer">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OurStrength">
+      <EntityTypeMapping TypeName="RESTAURANTModel.OurStrength">
+        <MappingFragment StoreEntitySet="OurStrength">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ShopCart">
+      <EntityTypeMapping TypeName="RESTAURANTModel.ShopCart">
+        <MappingFragment StoreEntitySet="ShopCart">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="foodname" ColumnName="foodname" />
+          <ScalarProperty Name="quantityfood" ColumnName="quantityfood" />
+          <ScalarProperty Name="foodprice" ColumnName="foodprice" />
+          <ScalarProperty Name="quantitytable" ColumnName="quantitytable" />
+          <ScalarProperty Name="tableprice" ColumnName="tableprice" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Social">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Social">
+        <MappingFragment StoreEntitySet="Social">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Story">
+      <EntityTypeMapping TypeName="RESTAURANTModel.Story">
+        <MappingFragment StoreEntitySet="Story">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="phonenum" ColumnName="phonenum" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="imgbanner" ColumnName="imgbanner" />
+          <ScalarProperty Name="img1" ColumnName="img1" />
+          <ScalarProperty Name="img2" ColumnName="img2" />
+          <ScalarProperty Name="img3" ColumnName="img3" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UpcomingEvent">
+      <EntityTypeMapping TypeName="RESTAURANTModel.UpcomingEvent">
+        <MappingFragment StoreEntitySet="UpcomingEvent">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="eventdate" ColumnName="eventdate" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="RESTAURANTModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phonenum" ColumnName="phonenum" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,29 @@
+﻿@model PJ_.Net_Restaurant.Models.Contact
+
+<address class="topbar-item">
+    <div class="icon">
+        <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+    </div>
+
+    <span class="span">
+        @Model.address
+    </span>
+</address>
+
+<div class="separator"></div>
+
+<div class="topbar-item item-2">
+    <div class="icon">
+        <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+    </div>
+
+    <span class="span">Daily : @Model.timeopen</span>
+</div>
+
+<a href="tel:" + @Model.phonenum class="topbar-item link">
+    <div class="icon">
+        <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+    </div>
+
+    <span class="span">@Model.phonenum</span>
+</a>
